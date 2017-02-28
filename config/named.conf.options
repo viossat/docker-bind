@@ -1,0 +1,9 @@
+options {
+	directory "/var/cache/bind";
+	recursion no;
+	allow-transfer { none; };
+	version none;
+	hostname none;
+};
+
+controls {};
