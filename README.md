@@ -2,7 +2,7 @@
 
 BIND is open source software that implements the Domain Name System (DNS) protocols for the Internet.
 
-- Alpine-based, 8.8 MB
+- Alpine-based, 9 MB
 - TCP/UDP port 53 exposed
 - basic configuration
 
