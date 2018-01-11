@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM alpine:3.7
 MAINTAINER Mathieu Viossat <mathieu@viossat.fr>
 
 RUN apk add --no-cache bind \
